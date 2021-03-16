@@ -43,14 +43,14 @@ const HeaderWrapper = styled.div`
     z-index: 5;
     display: flex;
     align-items: center;
-    padding: 3rem 20rem;
+    padding: 0 20rem;
     background-color: #fff;
     box-shadow: 0 0 1rem 0.1rem gray;
     width: 100%;
     cursor: pointer;
 
     @media (max-width: 1279px) {
-        padding: 1.5rem 6rem;
+        padding: 0 6rem;
     };
 
     @media (max-width: 479px) {

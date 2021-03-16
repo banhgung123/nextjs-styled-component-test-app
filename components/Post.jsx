@@ -65,10 +65,6 @@ const LeftPost = styled.img`
         width: auto;
         padding-bottom: 2rem;
     };
-
-    /* @media (min-width: 1024px) {
-        margin-left: 3rem;
-    }; */
 `;
 
 const RightPost = styled.div`

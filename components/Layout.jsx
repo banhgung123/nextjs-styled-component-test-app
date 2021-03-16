@@ -38,10 +38,6 @@ const Container = styled.div`
     @media (max-width: 479px) {
         padding: 3rem 1rem;
     }
-
-    /* @media (min-width: 768px) {
-        padding: 3rem 3rem;
-    }; */
 `;
 
 const Slide = styled.div`
@@ -63,5 +59,6 @@ const Item = styled.div`
 
     @media (max-width: 479px) {
         width: 100%;
+        margin-bottom: 1rem;
     }
 `;

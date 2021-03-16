@@ -41,7 +41,7 @@ const BannerWrapper = styled.div`
 
     @media (max-width: 479px) {
         margin-top: 12rem;
-    }
+    };
 `;
 
 const BannerContent = styled.div`
