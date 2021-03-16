@@ -61,7 +61,6 @@ const HeaderWrapper = styled.div`
 const Logo = styled.img`
     width: 100%;
     object-fit: cover;
-    /* cursor: pointer; */
 `;
 
 const MenuWrapper = styled.div`

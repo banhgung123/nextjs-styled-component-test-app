@@ -38,10 +38,6 @@ const PostWrapper = styled.div`
     max-width: 100%;
     margin-bottom: 10rem;
 
-    /* @media (min-width: 768px) {
-        margin-bottom: 8rem;
-    } */
-
     @media (max-width: 1279px) {
         margin-bottom: 8rem;
     }
@@ -55,11 +51,6 @@ const Wrapper = styled.div`
     @media (max-width: 1279px) {
         flex-direction: column;
     };
-
-    /* @media (max-width: 1279px) {
-        flex-direction: row;
-        margin-left: -3rem;
-    }; */
 `;
 
 const LeftPost = styled.img`
@@ -88,10 +79,6 @@ const RightPost = styled.div`
     @media (max-width: 1279px) {
         width: 100%;
     };
-
-    /* @media (min-width: 1024px) {
-        margin-left: 3rem;
-    };     */
 `;
 
 const ColorButton = styled.button`
